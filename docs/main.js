@@ -64373,7 +64373,7 @@ var core_1 = __webpack_require__(56);
 var forms_1 = __webpack_require__(464);
 var platform_browser_1 = __webpack_require__(130);
 var app_component_1 = __webpack_require__(465);
-var AppModule = (function () {
+var AppModule = /** @class */ (function () {
     function AppModule() {
     }
     AppModule = __decorate([
@@ -70033,7 +70033,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 var core_1 = __webpack_require__(56);
-var HelloComponent = (function () {
+var HelloComponent = /** @class */ (function () {
     function HelloComponent() {
         this.message = "Hello my friend!";
     }
@@ -70053,7 +70053,7 @@ exports.HelloComponent = HelloComponent;
 /* 466 */
 /***/ (function(module, exports) {
 
-throw new Error("Module build failed: Error: Node Sass does not yet support your current environment: Windows 64-bit with Unsupported runtime (64)\nFor more information on which environments are supported please see:\nhttps://github.com/sass/node-sass/releases/tag/v4.5.3\n    at module.exports (C:\\Users\\Ivan\\Desktop\\Angular 6 training\\Lesson 2\\hellow\\node_modules\\node-sass\\lib\\binding.js:13:13)\n    at Object.<anonymous> (C:\\Users\\Ivan\\Desktop\\Angular 6 training\\Lesson 2\\hellow\\node_modules\\node-sass\\lib\\index.js:14:35)\n    at Module._compile (internal/modules/cjs/loader.js:689:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)\n    at Module.load (internal/modules/cjs/loader.js:599:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:530:3)\n    at Module.require (internal/modules/cjs/loader.js:637:17)\n    at require (internal/modules/cjs/helpers.js:20:18)\n    at Object.<anonymous> (C:\\Users\\Ivan\\Desktop\\Angular 6 training\\Lesson 2\\hellow\\node_modules\\sass-loader\\lib\\loader.js:3:14)\n    at Module._compile (internal/modules/cjs/loader.js:689:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)\n    at Module.load (internal/modules/cjs/loader.js:599:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:530:3)\n    at Module.require (internal/modules/cjs/loader.js:637:17)\n    at require (internal/modules/cjs/helpers.js:20:18)\n    at loadLoader (C:\\Users\\Ivan\\Desktop\\Angular 6 training\\Lesson 2\\hellow\\node_modules\\loader-runner\\lib\\loadLoader.js:13:17)\n    at iteratePitchingLoaders (C:\\Users\\Ivan\\Desktop\\Angular 6 training\\Lesson 2\\hellow\\node_modules\\loader-runner\\lib\\LoaderRunner.js:169:2)\n    at iteratePitchingLoaders (C:\\Users\\Ivan\\Desktop\\Angular 6 training\\Lesson 2\\hellow\\node_modules\\loader-runner\\lib\\LoaderRunner.js:165:10)\n    at C:\\Users\\Ivan\\Desktop\\Angular 6 training\\Lesson 2\\hellow\\node_modules\\loader-runner\\lib\\LoaderRunner.js:173:18\n    at loadLoader (C:\\Users\\Ivan\\Desktop\\Angular 6 training\\Lesson 2\\hellow\\node_modules\\loader-runner\\lib\\loadLoader.js:36:3)\n    at iteratePitchingLoaders (C:\\Users\\Ivan\\Desktop\\Angular 6 training\\Lesson 2\\hellow\\node_modules\\loader-runner\\lib\\LoaderRunner.js:169:2)\n    at runLoaders (C:\\Users\\Ivan\\Desktop\\Angular 6 training\\Lesson 2\\hellow\\node_modules\\loader-runner\\lib\\LoaderRunner.js:362:2)\n    at NormalModule.doBuild (C:\\Users\\Ivan\\Desktop\\Angular 6 training\\Lesson 2\\hellow\\node_modules\\webpack\\lib\\NormalModule.js:181:3)\n    at NormalModule.build (C:\\Users\\Ivan\\Desktop\\Angular 6 training\\Lesson 2\\hellow\\node_modules\\webpack\\lib\\NormalModule.js:274:15)\n    at Compilation.buildModule (C:\\Users\\Ivan\\Desktop\\Angular 6 training\\Lesson 2\\hellow\\node_modules\\webpack\\lib\\Compilation.js:149:10)\n    at factoryCallback (C:\\Users\\Ivan\\Desktop\\Angular 6 training\\Lesson 2\\hellow\\node_modules\\webpack\\lib\\Compilation.js:337:12)\n    at factory (C:\\Users\\Ivan\\Desktop\\Angular 6 training\\Lesson 2\\hellow\\node_modules\\webpack\\lib\\NormalModuleFactory.js:241:5)\n    at applyPluginsAsyncWaterfall (C:\\Users\\Ivan\\Desktop\\Angular 6 training\\Lesson 2\\hellow\\node_modules\\webpack\\lib\\NormalModuleFactory.js:94:13)");
+module.exports = "h1 {\n  font-size: 1.2em;\n  color: #0086b3; }\n"
 
 /***/ }),
 /* 467 */
